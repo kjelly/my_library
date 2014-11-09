@@ -1,4 +1,4 @@
-name := """play-bootstrap3"""
+name := """my_library"""
 
 version := "0.2-SNAPSHOT"
 
